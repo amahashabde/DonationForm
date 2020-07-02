@@ -9,7 +9,7 @@
                     <field name="Name"><default-field><text-line size="15"/></default-field></field>
                     
                     <field name="emailAddress" from="emailAddress ?: primaryEmail?.emailAddress"><default-field><text-line size="15"/></default-field></field>
-<field name="phoneNum"><default-field><text-line size="15"/></default-field></field>
+<field name="Phone Number"><default-field><text-line size="15"/></default-field></field>
                     <field name="Donation Amount"><default-field><text-line size="15"/></default-field></field>
 <field name="Credit Card  #"><default-field><text-line size="15"/></default-field></field>
                      <field name="submitButton"><default-field title="Update"><submit/></default-field></field>
